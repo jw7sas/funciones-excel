@@ -6,3 +6,4 @@ Este proyecto contiene archivos en los cuales puedes ver las diferentes funcione
 
 * 01. Funciones de tipo texto en excel 1 - archivo: "~/src/files/01-Funciones-de-Texto-1.xlsx"
 * 02. Funciones de tipo texto en excel 2 - unir cadenas - archivo: "~/src/files/02-Funciones-de-Texto-2.xlsx"
+* 03. Funciones de tipo texto en excel 3 - Func.Texto (encontrar, izquierda, derecha) - archivo: "~/src/files/03-Funciones-de-Texto-3.xlsx"
